@@ -11,6 +11,6 @@
 int main() {
     // insert code here...
     printf("Hello, World!\n");
-
+    printf("%d\n",123);
     return 123;
 }
