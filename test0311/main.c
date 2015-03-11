@@ -11,6 +11,7 @@
 int main() {
     // insert code here...
     printf("Hello, World!\n");
-    printf("%d\n",123);
+    printf("%d\n",123);  // %d print a integer
+    printf("%f\n",230.0+456.3232+3.14159);  //%f print float num 
     return 123;
 }
