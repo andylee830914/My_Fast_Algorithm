@@ -26,7 +26,6 @@ int main() {
     printf("%c\n",name[10]); //print specific array
     for (i=0; i<50; ++i) {
         printf("%d:%c %u\n",i,name[i],name[i]);
-        printf("hello\n");
     }
     return 123;
 }
