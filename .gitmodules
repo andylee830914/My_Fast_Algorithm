@@ -1,3 +1,0 @@
-[submodule "eggs"]
-    path = eggs
-    url = https://github.com/ycshu/eggs
