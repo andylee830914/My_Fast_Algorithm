@@ -1,0 +1,3 @@
+[submodule "egg0314/eggs"]
+	path = egg0314/eggs
+	url = https://github.com/ycshu/eggs
