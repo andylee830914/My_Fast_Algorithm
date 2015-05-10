@@ -7,18 +7,18 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>76EE7DE2-7E01-43FB-9DF2-2B19DFFDD43E</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>sort0415</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>C42AA3E0FF762B6EB00B663C37DCBE66E64BF0D5</key>
 		<string>https://github.com/andylee830914/My_Fast_Algorithm.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>sort0415/sort0415/sort0415.xcodeproj/project.xcworkspace</string>
+	<string>sort0415/sort0415.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>C42AA3E0FF762B6EB00B663C37DCBE66E64BF0D5</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/andylee830914/My_Fast_Algorithm.git</string>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>C42AA3E0FF762B6EB00B663C37DCBE66E64BF0D5</string>
 			<key>IDESourceControlWCCName</key>
-			<string>test0311</string>
+			<string>My_Fast_Algorithm</string>
 		</dict>
 	</array>
 </dict>
