@@ -15,4 +15,4 @@
 * [Quick median](https://github.com/andylee830914/Fast_Algorithm_2015/blob/quick_median/midexam/C14011201/midterm/midterm/sort.c)：Implement of Quick median
 
 ###Midterm
-* [Fast Fourier Transform](https://github.com/andylee830914/Fast_Fourier_Transform) ：Implement of radix-2, radix-3 & radix-5 algorithm
+* [Fast Fourier Transform](https://github.com/andylee830914/Fast_Fourier_Transform) ：Implement of radix-2, radix-3 & radix-5 FFT algorithm
