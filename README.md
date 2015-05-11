@@ -16,3 +16,14 @@
 
 ###Midterm
 * [Fast Fourier Transform](https://github.com/andylee830914/Fast_Fourier_Transform) ：Implement of radix-2, radix-3 & radix-5 FFT algorithm
+
+##Some Links
+###Course Data
+* [ycshu/Fast\_Algorithm\_2015](https://github.com/ycshu/Fast_Algorithm_2015)
+* [ycshu/midexam](https://github.com/ycshu/midexam)
+
+###My Data
+* [andylee830914/My\_Fast\_Algorithm](https://github.com/andylee830914/My_Fast_Algorithm)：Contents & Practice Data
+* [andylee830914/Fast\_Algorithm\_2015](https://github.com/andylee830914/Fast_Algorithm_2015)
+：forked from [ycshu/Fast\_Algorithm\_2015](https://github.com/ycshu/Fast_Algorithm_2015) 
+* [andylee830914/Fast\_Fourier\_Transform](https://github.com/andylee830914/Fast_Fourier_Transform)：Midterm Data
