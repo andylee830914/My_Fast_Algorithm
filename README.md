@@ -17,7 +17,13 @@
 ###Midterm
 * [Fast Fourier Transform](https://github.com/andylee830914/Fast_Fourier_Transform) ：Implement of radix-2, radix-3 & radix-5 FFT algorithm
 
+###Final - Application of Fast Fourier Transform
+* [Discrete Cosine Transform](https://github.com/andylee830914/Fast_Fourier_Transform/tree/DCT) ：Implement of radix-2, radix-3 & radix-5 DCT algorithm
+* [Discrete Sine Transform](https://github.com/andylee830914/Fast_Fourier_Transform/tree/DST) ：Implement of radix-2 DST algorithm
+* [Fast Multiplication](https://github.com/andylee830914/Fast_Fourier_Transform/tree/multiplication) ：Application of General Discrete Fourier transform 
+
 ##Some Links
+
 ###Course Data
 * [ycshu/Fast\_Algorithm\_2015](https://github.com/ycshu/Fast_Algorithm_2015)
 * [ycshu/midexam](https://github.com/ycshu/midexam)
