@@ -21,6 +21,8 @@
 * [Discrete Cosine Transform](https://github.com/andylee830914/Fast_Fourier_Transform/tree/DCT) ：Implement of radix-2, radix-3 & radix-5 DCT algorithm
 * [Discrete Sine Transform](https://github.com/andylee830914/Fast_Fourier_Transform/tree/DST) ：Implement of radix-2 DST algorithm
 * [Fast Multiplication](https://github.com/andylee830914/Fast_Fourier_Transform/tree/multiplication) ：Application of General Discrete Fourier transform 
+* [Fast Poisson Solver](https://github.com/andylee830914/Fast_Fourier_Transform/tree/FPS) ：Implement of Fast Poisson Solver algorithm. Application of 2D DST.
+
 
 ##Some Links
 
